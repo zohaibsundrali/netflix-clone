@@ -26,7 +26,6 @@ const Navbar = () => {
          <img src={logo}/>
          <ul>
           <li>Home</li>
-          <li>Zohaib</li>
           <li>TV Shows</li>
           <li>Movies</li>
           <li>News & Popular</li>
